@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Nandukumar611
+- 👋 Hi, I’m Nandukumar
 - 👀 I’m interested in working with data
-- 🌱 I’m currently learning pyspark
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Big data Analytics
 - 📫 How to reach me pudinandukumar@gmail.com 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+  
 
 <!---
 Nandukumar611/Nandukumar611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
